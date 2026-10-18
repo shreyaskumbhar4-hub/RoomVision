@@ -1,0 +1,6 @@
+{
+  "name": "RoomVision",
+  "description": "AR interior design and wall colour visualization application with 3D furniture placement, wall finishes, and floor preview.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
